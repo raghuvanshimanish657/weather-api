@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mJFF0qf4yBdwLyY27j+gzm6/FcygufNwFxv5oYEgeVY=",
+  "Source": "WeatherTaskApi",
+  "BasePath": "_content/WeatherTaskApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
